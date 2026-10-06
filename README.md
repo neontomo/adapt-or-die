@@ -2,11 +2,11 @@
 
 <img width="954" alt="Untitled" src="https://user-images.githubusercontent.com/105588693/210104580-b440a432-175d-4ade-bffe-fbc08ba4b6cb.png">
 
-In Adapt or Die, we build a game where AI organisms fight to survive against the harsh realities of nature.
+In Adapt or Die, we build a game where organisms fight to survive against the harsh realities of nature.
 
 ## Play it
 
-A playable version is available [here](https://neontomo.com/play/adapt-or-die).
+A playable version is available [here](https://iamtomo.com/play/adapt-or-die).
 
 I made a [YouTube video](https://www.youtube.com/watch?v=NZtqoAKIKg8) describing my entire thought process, which may help you to build your own version.
 
